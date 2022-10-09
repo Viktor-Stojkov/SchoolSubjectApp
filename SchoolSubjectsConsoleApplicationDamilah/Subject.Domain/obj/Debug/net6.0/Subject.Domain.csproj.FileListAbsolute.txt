@@ -1,0 +1,14 @@
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\bin\Debug\net6.0\Subject.Domain.deps.json
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\bin\Debug\net6.0\Subject.Domain.runtimeconfig.json
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\bin\Debug\net6.0\Subject.Domain.dll
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\bin\Debug\net6.0\Subject.Domain.pdb
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\obj\Debug\net6.0\Subject.Domain.csproj.AssemblyReference.cache
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\obj\Debug\net6.0\Subject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\obj\Debug\net6.0\Subject.Domain.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\obj\Debug\net6.0\Subject.Domain.AssemblyInfo.cs
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\obj\Debug\net6.0\Subject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\obj\Debug\net6.0\Subject.Domain.dll
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\obj\Debug\net6.0\refint\Subject.Domain.dll
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\obj\Debug\net6.0\Subject.Domain.pdb
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\obj\Debug\net6.0\Subject.Domain.genruntimeconfig.cache
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.Domain\obj\Debug\net6.0\ref\Subject.Domain.dll

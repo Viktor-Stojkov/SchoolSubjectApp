@@ -1,0 +1,17 @@
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\obj\Debug\net6.0\Subject.BussinesLayout.csproj.AssemblyReference.cache
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\obj\Debug\net6.0\Subject.BussinesLayout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\obj\Debug\net6.0\Subject.BussinesLayout.AssemblyInfoInputs.cache
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\obj\Debug\net6.0\Subject.BussinesLayout.AssemblyInfo.cs
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\obj\Debug\net6.0\Subject.BussinesLayout.csproj.CoreCompileInputs.cache
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\bin\Debug\net6.0\Subject.BussinesLayout.deps.json
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\bin\Debug\net6.0\Subject.BussinesLayout.runtimeconfig.json
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\bin\Debug\net6.0\Subject.BussinesLayout.dll
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\bin\Debug\net6.0\Subject.BussinesLayout.pdb
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\bin\Debug\net6.0\Subject.Domain.dll
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\bin\Debug\net6.0\Subject.Domain.pdb
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\obj\Debug\net6.0\Subject.BussinesLayout.csproj.CopyComplete
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\obj\Debug\net6.0\Subject.BussinesLayout.dll
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\obj\Debug\net6.0\refint\Subject.BussinesLayout.dll
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\obj\Debug\net6.0\Subject.BussinesLayout.pdb
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\obj\Debug\net6.0\Subject.BussinesLayout.genruntimeconfig.cache
+C:\Users\vices\Desktop\Damilah Task\Task for Еmployment - 09.10.2022 to finish\SchoolSubjectsConsoleApplicationDamilah\Subject.BussinesLayout\obj\Debug\net6.0\ref\Subject.BussinesLayout.dll
