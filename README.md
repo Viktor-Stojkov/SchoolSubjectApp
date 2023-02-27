@@ -1,3 +1,6 @@
 # SchoolSubjectApp
 
-Console application woth Database First migration
+Console application with Database First migration. 
+
+<br />
+One to Many and Many to Many relation
